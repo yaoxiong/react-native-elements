@@ -14,6 +14,6 @@ export default {
   dkGreyBg: '#232323',
   greyOutline: '#cbd2d9',
   searchBg: '#303337',
-  disabled: '#dadee0',
+  disabled: '#c6efe9',
   white: '#ffffff',
 }
